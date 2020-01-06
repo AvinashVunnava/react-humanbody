@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "publishConfig": {
-    "registry": "https://github.com/AvinashVunnava/react-humanbody.git"
+	"publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
